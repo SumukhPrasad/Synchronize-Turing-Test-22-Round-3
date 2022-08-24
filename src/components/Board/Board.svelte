@@ -116,6 +116,9 @@
           .board {
                width: 240px !important;
           }
+          .container {
+               top: 80% !important;
+          }
      }
      @media only screen and (max-height: 300px) {
           .container {
