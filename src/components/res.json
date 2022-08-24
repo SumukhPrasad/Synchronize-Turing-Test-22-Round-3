@@ -1,0 +1,17 @@
+{
+     "x": {
+          "tileForegroundImageSource": "textures/x.png",
+          "tileAltText": "X",
+          "tileClassName": "played"
+     },
+     "o": {
+          "tileForegroundImageSource": "textures/o.png",
+          "tileAltText": "O",
+          "tileClassName": "played"
+     },
+     "null": {
+          "tileForegroundImageSource": "textures/unknown.png",
+          "tileAltText": "No moves.",
+          "tileClassName": "nomoves"
+     }
+}
